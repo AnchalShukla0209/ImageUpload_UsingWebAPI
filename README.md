@@ -10,4 +10,5 @@ In this Project, I am saving and performing opertaions using POSTMAN WebAPI.
 Image is being saved in the Local system.
 
 ### We can use it in POSTMAN shown below. 
-![postmanSs](https://user-images.githubusercontent.com/110536823/182595880-48745e46-1455-4f66-8aa7-50a0df249837.png)
+
+![dfgf](https://user-images.githubusercontent.com/110536823/182596960-820c7ca2-1b88-4b0a-9ff0-8d2b177d494a.png)
