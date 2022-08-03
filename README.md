@@ -1,4 +1,5 @@
-![ImageUpload_ss](https://localhost:44396/api/ImageFile/GetAllImage)
+![ImageUpload_ss](https://user-images.githubusercontent.com/110536823/182596596-4cd900a8-808f-4b98-a7d8-a3c4c85ac662.png)
+
 
 # ImageUpload_UsingWebAPI
 
